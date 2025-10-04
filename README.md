@@ -251,7 +251,7 @@ MIT
 ## Support
 
 For issues and questions:
-- GitHub Issues: https://github.com/yourusername/linkedin-post-mcp/issues
+- Help with setting up: email hello@biznezstack.com we are here to help 
 - LinkedIn Developer Docs: https://docs.microsoft.com/en-us/linkedin/
 
 ## Changelog
