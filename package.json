@@ -22,6 +22,14 @@
   ],
   "author": "biznezstack",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmaun/linkedIn-post.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mmaun/linkedIn-post/issues"
+  },
+  "homepage": "https://github.com/mmaun/linkedIn-post#readme",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.4",
     "axios": "^1.7.9",
