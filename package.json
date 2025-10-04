@@ -1,0 +1,44 @@
+{
+  "name": "@biznezstack/linkedin-post-mcp",
+  "version": "1.0.1",
+  "description": "MCP server for generating and posting LinkedIn content from transcripts",
+  "main": "dist/index.js",
+  "type": "module",
+  "bin": {
+    "linkedin-post-mcp": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "watch": "tsc --watch",
+    "dev": "tsx src/index.ts"
+  },
+  "keywords": [
+    "mcp",
+    "linkedin",
+    "social-media",
+    "claude",
+    "ai"
+  ],
+  "author": "biznezstack",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4",
+    "axios": "^1.7.9",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
+

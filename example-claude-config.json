@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "linkedin-post": {
+      "command": "npx",
+      "args": [
+        "@yourusername/linkedin-post-mcp",
+        "--access-token",
+        "YOUR_LINKEDIN_ACCESS_TOKEN_HERE",
+        "--user-urn",
+        "urn:li:person:YOUR_USER_ID_HERE"
+      ]
+    }
+  }
+}
+
