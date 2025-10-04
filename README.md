@@ -1,6 +1,6 @@
-# LinkedIn Post MCP Server
+# LinkedIn Post Claud Add-on
 
-A Model Context Protocol (MCP) server that enables AI assistants like Claude to generate and publish LinkedIn posts from transcripts or custom text.
+AI connector that enables AI assistants like Claude to generate and publish LinkedIn posts from transcripts or custom text.
 
 ## Features
 
